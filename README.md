@@ -1,6 +1,5 @@
 # Toxic comments severity
 
-## Team Member : Bryan Goh Ying Chung | Daniel Lim Yuan Lee | Ng Tow Boon | Ong Wee Chong, Alex
 
 ### Mini-Project for Assessing Toxicity of Online comments
 
